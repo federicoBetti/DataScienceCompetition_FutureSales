@@ -131,6 +131,7 @@ dmypy.json
 # Data
 data/
 data_custom/
+data_english/
 submissions/
 
 
